@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 public class RomanTest {
 
     @Test
-    void shouldTranslateOneToI(int number){
+    void shouldTranslateOneToI(){
         assertEquals("I", Roman.toRoman(1));
     }
 
