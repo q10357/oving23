@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.example</groupId>
-    <artifactId>roman</artifactId>
+    <artifactId>Oving2</artifactId>
     <version>1.0-SNAPSHOT</version>
 
     <dependencies>
@@ -29,5 +29,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
